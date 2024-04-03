@@ -1,0 +1,3 @@
+- Run "optimize_surrogate.py" file to determine the composition of surrogate mixture.
+- Provide neceassary choice of surrogate components and target fuel.
+- "optimize.ipynb" file was only produced from temporary trial purpose. 
